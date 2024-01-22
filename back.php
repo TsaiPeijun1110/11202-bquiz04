@@ -32,5 +32,5 @@
         <div id="bottom" style="line-height:70px; color:#FFF; background:url(icon/bot.png);" class="ct">
         	頁尾版權 :        </div>
     </div>
-	<script src="./js/jquery-3.4.1.min.js"></script>
+<script src="./js/jquery-3.4.1.min.js"></script>
 </body></html>

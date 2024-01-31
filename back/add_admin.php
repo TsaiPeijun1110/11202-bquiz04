@@ -15,16 +15,16 @@
             <div><input type="checkbox" name="pr[]" value="1">
             商品分類與管理
         </div>
-            <div><input type="checkbox" name="" value="2">
+            <div><input type="checkbox" name="pr[]" value="2">
             訂單管理
         </div>
-            <div><input type="checkbox" name="" value="3">
+            <div><input type="checkbox" name="pr[]" value="3">
             會員管理
         </div>
-            <div><input type="checkbox" name="" value="4">
+            <div><input type="checkbox" name="pr[]" value="4">
             頁尾版權管理
         </div>
-            <div><input type="checkbox" name="" value="5">
+            <div><input type="checkbox" name="pr[]" value="5">
             最新消息管理
         </div>
            

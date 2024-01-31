@@ -8,6 +8,7 @@
 
     <title>┌精品電子商務網站」</title>
     <link href="./css/css.css" rel="stylesheet" type="text/css">
+    <script src="./js/jquery-3.4.1.min.js"></script>
     <script src="./js/js.js"></script>
 </head>
 
@@ -15,11 +16,11 @@
     <iframe name="back" style="display:none;"></iframe>
     <div id="main">
         <div id="top">
-            <a href="?">
+            <a href="index.php">
                 <img src="./icon/0416.jpg">
             </a>
             <div style="padding:10px;">
-                <a href="?">回首頁</a> |
+                <a href="index.php">回首頁</a> |
                 <a href="?do=news">最新消息</a> |
                 <a href="?do=look">購物流程</a> |
                 <a href="?do=buycart">購物車</a> |
@@ -77,7 +78,7 @@
         <div id="bottom" style="line-height:70px;background:url(icon/bot.png); color:#FFF;" class="ct">
             頁尾版權 : <?=$Bottom->find(1)['bottom'];?></div>
     </div>
-    <script src="./js/jquery-3.4.1.min.js"></script>
+    
 </body>
 
 </html>
